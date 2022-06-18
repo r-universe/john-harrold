@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "onbrand"]
+	path = onbrand
+	url = https://github.com/john-harrold/onbrand
+	shallow = true
+	registered = true
+[submodule "ubiquity"]
+	path = ubiquity
+	url = https://github.com/john-harrold/ubiquity
+	shallow = true
+	registered = true

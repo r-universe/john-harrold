@@ -1,0 +1,10 @@
+[
+  {
+    "package": "onbrand",
+    "oncran": true
+  },
+  {
+    "package": "ubiquity",
+    "oncran": true
+  }
+]

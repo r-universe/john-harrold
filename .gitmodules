@@ -8,6 +8,9 @@
 [submodule "onbrand"]
 	path = onbrand
 	url = https://github.com/john-harrold/onbrand
+[submodule "ruminate"]
+	path = ruminate
+	url = https://github.com/john-harrold/ruminate
 [submodule "ubiquity"]
 	path = ubiquity
 	url = https://github.com/john-harrold/ubiquity
